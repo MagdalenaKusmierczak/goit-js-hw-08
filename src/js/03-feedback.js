@@ -1,5 +1,5 @@
 //Adding lodash throttle from library
-import { after, throttle } from 'lodash';
+import { throttle } from 'lodash';
 // Setting localStorage key as "feedback-form-state"
 const STORAGE_KEY = 'feedback-form-state';
 
